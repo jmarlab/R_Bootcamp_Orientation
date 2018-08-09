@@ -103,4 +103,4 @@ logFC <- deg_Pri_vs_Nor$logFC
 # Make a basic volcano plot
 with(deg_Pri_vs_Nor, plot(logFC, -log10(AdjP), pch=20, main="Volcano plot", xlab = "logFC", ylab = "-log10(Adj.P.Value)"))
 
-abline(v = abs(5))
+abline(v = c(-5,5), col = "red", lty = 3, lwd=2)
