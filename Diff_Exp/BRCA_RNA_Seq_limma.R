@@ -2,7 +2,7 @@
 dir()
 
 # Set working directory to Day 2
-setwd("Day2/")
+setwd("Diff_Exp/")
 dir()
 
 # Read the contents of BRCA RNA-Seq dataset
