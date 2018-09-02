@@ -2,6 +2,13 @@
 
 This is the repo for Einstein's R Bootcamp (2018 1st year PhD orientation) August 2018
 
+TA Contact Information
+===========
+* Ameya Kulkarni - akulkarn@mail.einstein.yu.edu
+* Leah Guthrie - leah.guthrie@phd.einstein.yu.edu 
+* Wesam Azaizeh - wazaizeh@mail.einstein.yu.edu 
+* Maya Shapiro - maya.shapiro@mail.einstein.yu.edu 
+
 
 Team Assignments for Day 2
 ===========
